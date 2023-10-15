@@ -129,7 +129,7 @@ a:active {
 }
 
 .bg-12 {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Szabo_Szabolcs_rakoczi_turos/kep2.jpg);
     background-size: cover;
     background-position: center;
     border: 3px solid #fff;
@@ -192,6 +192,6 @@ a:active {
 }
 
 .bg-12:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok);
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Szabo_Szabolcs_rakoczi_turos/kep2.jpg);
     transition: 4s !important;
 }
