@@ -1,0 +1,77 @@
+body{
+    background-color: #6c321c;
+    color: #DACCA7;
+    font-size: 125%;
+}
+
+nav a {
+    color: #6c321c; /* Példa: fekete szín */
+}
+.nav-link {
+    color: #6c321c; /* Példa: fekete szín */
+
+}
+footer{
+    color: #6c321c; /* Példa: fekete szín */
+    background-color: #DACCA7;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.navbar-brand{
+    font-size: 130%;
+}
+nav a:hover {
+    font-weight: bold;
+    color: #925036; 
+}
+
+.nav-link:hover {
+    color: #6c321c; 
+}
+
+.torikep{
+    height: 270px;
+    width: 480px;
+}
+.recept1{
+    margin-top: 40px;
+    height: 290px;
+    width: 400px;
+}
+.recept2{
+    margin-top: 10px;
+    height: 290px;
+    width: 400px;
+}
+
+li{
+    font-size: larger;
+}
+.fooldal{
+    font-size: 150%;
+}
+a{
+    color: #DACCA7;
+}
+a:hover {
+    color:#b4a888;
+  }
+.navbar-toggler-icon {
+    background-color: #6c321c; 
+}
+.fokep{
+    width: 95%;
+    margin-top: 27px;
+}
+
+.elkeszites{
+    font-size: 125%;
+    text-decoration: underline;
+
+}
+.hozzavalo{
+    font-size: 125%;
+    text-decoration: underline;
+
+}

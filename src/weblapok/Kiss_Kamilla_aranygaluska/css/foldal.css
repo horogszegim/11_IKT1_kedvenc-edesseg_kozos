@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+    text-align: center;
+    
+}
+
+header{
+    background-color: brown;
+}
+
+
+h1{
+    letter-spacing: 2px;    
+    color: white;
+    font-size: 300%;
+}
+
+h2{
+    font-size: 200%;
+    font-weight: bold;
+    background-color: brown;
+    color: white;
+}
+
+p, li{   
+    
+    text-align: justify;
+    font-size: 150%;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+
+.row{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.nem{
+    text-align: left;
+}
+
+.kep{
+    width: 500px;
+}
+
+footer{
+    background-color: brown;
+    color: white;
+}
+
+.szin{
+    background-color: wheat;
+}
+
+#for{
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.hiv{
+    color: white;
+    text-decoration: none;
+}
+

@@ -1,0 +1,26 @@
+#teteje{
+    background-color: rgba(224, 255, 255, 0.9);
+    border-radius: 10px;
+}
+#leiras{
+    background-color: rgba(173, 216, 230, 0.9);
+
+}
+#recept{
+    background-color: rgba(127, 186, 205, 0.9);
+}
+body{
+    background-image: url(img/black-forest-tropical-forest-waterfall-long-exposure-2560x1440-6088.jpg);
+    background-size: cover;
+    font-size: large;
+}
+
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
+img{
+    border: 1px solid lightgrey;
+}

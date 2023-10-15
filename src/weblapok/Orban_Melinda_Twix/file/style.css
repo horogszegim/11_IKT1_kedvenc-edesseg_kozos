@@ -1,0 +1,54 @@
+nav{
+    overflow: auto;
+}
+body{
+    
+    background-image: url(../img/empty-save-texture-room-light.jpg);
+    background-repeat: no-repeat;
+
+}
+h1,h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    margin-bottom: auto;
+}
+.bemutatokep{
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    height: 320px;
+    width: 350px;
+    
+}
+#hatter{
+    background-color: rgba(255, 255, 255, 0.4) ;
+    border-radius: 5px;
+    border-color: rgb(187, 191, 189);
+    border-width: 2px;
+    border-style: solid;
+    
+}
+.szoveg{
+    text-align: center;
+}
+.hq{
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    height: 320px;
+    width: 500px;
+}
+.leftright{
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    height: 320px;
+    width: 600px;
+}
