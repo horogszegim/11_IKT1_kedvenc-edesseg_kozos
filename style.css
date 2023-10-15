@@ -11,7 +11,7 @@ body {
 
 a:link {
     color: #fff !important;
-    filter: brightness(80%) !important;
+    filter: brightness(75%) !important;
     text-decoration: none;
     transition: 0.3s;
 }
@@ -44,70 +44,154 @@ a:active {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Balla_Adam_Csokiskekszszalami/képek/fooldal_keksz.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-2 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Bárdos_Simon_Sajttorta/img/3.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url();
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Farkas_Botond_MilkyWay/assets/img/2384408.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-4 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Horogszegi_Miklos_Churros/src/churros2.png);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-5 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Hrubos_Mark_Palacsinta/Images/Palacsinta_3_PP.webp);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-6 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Kiraly_Marton_Kremes/képek/20130612-kremes-mille-feuille-teljes5.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-7 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Kiss_Kamilla_aranygaluska/kepek/Daralt_dio.png);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-8 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Mikuska_Peter_Marcell_FeketerErdőTorta/img/torta.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-9 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Orban_Melinda_Twix/img/twixszelet.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-10 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Ozvári-Lukács_Sándor_Áron_Dobostorta/15775077_e15c03225ee6d490f2059ae27523bb82_wm.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-11 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok/Pongracz_Gabor_Brownie/assets/img/csupacsokis.jpg);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
 }
 
 .bg-12 {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./src/weblapok);
     background-size: cover;
     background-position: center;
+    border: 3px solid #fff;
+    border-radius: 25px;
+}
+
+.bg-1:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Balla_Adam_Csokiskekszszalami/képek/fooldal_keksz.jpg);
+    transition: 4s !important;
+}
+
+.bg-2:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Bárdos_Simon_Sajttorta/img/3.jpg);
+    transition: 4s !important;
+}
+
+.bg-3:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Farkas_Botond_MilkyWay/assets/img/2384408.jpg);
+    transition: 4s !important;
+}
+
+.bg-4:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Horogszegi_Miklos_Churros/src/churros2.png);
+    transition: 4s !important;
+}
+
+.bg-5:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Hrubos_Mark_Palacsinta/Images/Palacsinta_3_PP.webp);
+    transition: 4s !important;
+}
+
+.bg-6:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Kiraly_Marton_Kremes/képek/20130612-kremes-mille-feuille-teljes5.jpg);
+    transition: 4s !important;
+}
+
+.bg-7:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Kiss_Kamilla_aranygaluska/kepek/Daralt_dio.png);
+    transition: 4s !important;
+}
+
+.bg-8:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Mikuska_Peter_Marcell_FeketerErdőTorta/img/torta.jpg);
+    transition: 4s !important;
+}
+
+.bg-9:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Orban_Melinda_Twix/img/twixszelet.jpg);
+    transition: 4s !important;
+}
+
+.bg-10:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Ozvári-Lukács_Sándor_Áron_Dobostorta/15775077_e15c03225ee6d490f2059ae27523bb82_wm.jpg);
+    transition: 4s !important;
+}
+
+.bg-11:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok/Pongracz_Gabor_Brownie/assets/img/csupacsokis.jpg);
+    transition: 4s !important;
+}
+
+.bg-12:hover {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url(./src/weblapok);
+    transition: 4s !important;
 }
